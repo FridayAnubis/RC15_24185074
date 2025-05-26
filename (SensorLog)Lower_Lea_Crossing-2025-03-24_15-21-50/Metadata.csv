@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,iPhone 13 Pro Max,1742829710373,2025-03-24_15-21-50,Europe/London,ios,1.40.3,47ab53ff-950f-4f15-bfc0-c8c506aacae0,Accelerometer|Orientation|Magnetometer|Barometer|Location|Microphone|Heart Rate|Wrist Motion|Watch Barometer|Pedometer|Headphone|Annotation|MagnetometerUncalibrated|AccelerometerUncalibrated,10|10|10|0|0|100|10|10|10|10|10||10|10,false
